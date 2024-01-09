@@ -31,7 +31,7 @@ Users should be able to:
 
 [Live](https://mendez-v.github.io/blog-preview-card/) 👀
 
-<!-- [Frontend Mentor](https://your-live-site-url.com) 👀 -->
+[Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-V-XVgKbMXL) 👀
 
 ## Built with
 
