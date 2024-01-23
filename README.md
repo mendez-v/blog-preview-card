@@ -29,9 +29,11 @@ Users should be able to:
 
 ## Links
 
-[Live](https://mendez-v.github.io/blog-preview-card/) 👀
+[Live Site](https://mendez-v.github.io/blog-preview-card/) 👀
 
-[Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-V-XVgKbMXL) 👀
+[Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-V-XVgKbMXL) 👀
+
+[Challenge Repository](https://github.com/mendez-v/frontend-mentor-challenges) 👀
 
 ## Built with
 
